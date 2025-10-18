@@ -384,7 +384,7 @@ align-content: center;
   height: 200px;
   transform-style: preserve-3d;
   transform: rotateX(-25deg) rotateY(-25deg);
-  animation: rotate 345s infinite linear;
+  animation: rotate 215s infinite linear;
   animation-delay: 1s;
   margin: 100px auto;
   margin-top: -2cm;
@@ -1075,36 +1075,36 @@ align-content: center;
 
 .front{
     transform: translateZ(105px);
-    background: rgba(247, 101, 101, 0.61);
+   /* background: rgba(247, 101, 101, 0.61);*/
     padding: 0;
     font-size:medium;
 }
 
 .back{
 transform: translateZ(-105px) rotateY(180deg);
-background: rgba(128, 250, 80, 0.61);
+/*background: rgba(128, 250, 80, 0.61);*/
 }
 
 .top{
     transform: translateY(-105px) rotateX(90deg);
-    background: rgba(111, 101, 247, 0.61);
+    /*background: rgba(111, 101, 247, 0.61);*/
      font-size:12px;
 }
 
 .bottom{
       transform: translateY(105px) rotateX(-90deg);
-      background: rgba(243, 190, 93, 0.61);
+     /* background: rgba(243, 190, 93, 0.61);*/
 }
 
 .right{
     
  transform: translateX(105px) rotateY(90deg);
- background-color: #007bff;
+ /*background-color: #007bff;*/
 }
 
 .left{
     transform: translateX(-105px) rotateY(-90deg);
-    background: rgba(248, 37, 178, 0.61);
+   /* background: rgba(248, 37, 178, 0.61);*/
 }
 
 .Gallery{
