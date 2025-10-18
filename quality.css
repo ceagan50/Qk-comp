@@ -384,7 +384,7 @@ align-content: center;
   height: 200px;
   transform-style: preserve-3d;
   transform: rotateX(-25deg) rotateY(-25deg);
-  animation: rotate 215s infinite linear;
+  animation: rotate 135s infinite linear;
   animation-delay: 1s;
   margin: 100px auto;
   margin-top: -2cm;
